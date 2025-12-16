@@ -1,12 +1,21 @@
 # Catch it!
 
-A small 2D Unity game created as a portfolio project.
+Catch it! is a small 2D game made in Unity as a personal portfolio project.
 
-The game is built with a focus on clean structure and gameplay systems:
-- Object pooling for fruits
-- Simple MVC approach for score logic
-- Game state management (Main Menu, Playing, Pause, Game Over)
-- Input handling for both mouse and touch
-- Gradually increasing difficulty over time
+The goal of the project was not to create a complex or content-heavy game, but to focus on clean architecture, readable code, and a solid gameplay foundation.
 
-This project was created to practice Unity architecture, code organization, and gameplay feel rather than visual complexity.
+## Key features
+
+- Object pooling system for falling fruits  
+- Simple MVC structure for score handling  
+- Centralized game state management  
+  (Main Menu, Playing, Pause, Game Over)  
+- Input support for both mouse and touch  
+- Gradually increasing difficulty over time  
+
+## About the project
+
+This project was created as a learning exercise to practice Unity architecture, code organization, and gameplay feel.  
+It represents a completed, polished iteration rather than an experimental prototype.
+
+The focus was on writing understandable, maintainable code and building systems that can be easily extended in the future.
